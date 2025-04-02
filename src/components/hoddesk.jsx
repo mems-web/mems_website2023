@@ -83,7 +83,7 @@ const section = () => {
           To emerge as a globally esteemed institution, our vision at the Department of Metallurgical Engineering and Materials Science is to educate and mentor the forthcoming generation of engineers, scientists, and entrepreneurs. Our unwavering commitment is to contribute significantly to the economic and social development of India and the world.
 
           <br /> <br />
-          <div className="subsubhead">Mission</div>
+          <div className="subsubhead7">Mission</div>
           <span className="subsubhead2">Educational Excellence:</span>
           Cultivating excellence in our students, our mission is to provide a comprehensive education encompassing fundamentals of advanced materials and metallurgical engineering topics. Our goal is to equip them with the essential skills for success in academia and industry.
           <span className="subsubhead2">Cutting-Edge Research:</span>
