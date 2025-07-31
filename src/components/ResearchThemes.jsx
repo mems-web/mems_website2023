@@ -56,7 +56,7 @@ const ResearchThemes = () => {
             <NavLink to="researchcomponent3" >
               {" "}
               <div className="cards-2">
-                <div className="research-text"> Strategic Materials</div>
+                <div className="research-text"> Diffusion & Phase Transformations</div>
               </div>
             </NavLink>
             <NavLink to="researchcomponent2" >
