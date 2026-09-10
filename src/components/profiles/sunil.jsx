@@ -85,7 +85,7 @@ const profile11 = () => {
           <ul>
           
             <li>
-            Associate Professor, Metallurgical Engineering and Materials Science, IIT Indore, 2022 – present 
+            Professor, Metallurgical Engineering and Materials Science, IIT Indore, 2022 – present 
             </li>
             <li>Assistant Professor, Metallurgical Engineering and Materials Science, IIT Indore, 2018 – 2022</li>
             <li>

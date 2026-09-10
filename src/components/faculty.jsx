@@ -258,7 +258,7 @@ const faculty = () => {
             <div className="hodtext">
               <div className="hodtext1">
                 <div className="name">Prof. Mrigendra Dubey</div>
-                <div className="post"> Associate Professor</div>
+                <div className="post"> Professor</div>
                 <div className="post"> Office		: PoD 1D; 412  </div>
                 <div className="post"> Email	 (<i><FaEnvelope/></i>)	:mdubey@iiti.ac.in </div>
                 <div className="post"> Contact  (<i><FaPhone/></i>)		: 3258</div>
@@ -441,7 +441,7 @@ const faculty = () => {
             <div className="hodtext">
               <div className="hodtext1">
                 <div className="name">Prof. Sunil Kumar</div>
-                <div className="post"> Associate Professor </div>
+                <div className="post"> Professor </div>
                 <div className="post"> Office		: Room no. 416, POD-1D (Chromium Building) </div>
                 <div className="post"> Email	 (<i><FaEnvelope/></i>)	: sunil@iiti.ac.in </div>
                 <div className="post"> Contact  (<i><FaPhone/></i>)		: 07324-306-3281 </div>
@@ -483,7 +483,7 @@ const faculty = () => {
             <div className="hodtext">
               <div className="hodtext1">
                 <div className="name">Prof. Vinod Kumar</div>
-                <div className="post"> Associate Professor </div>
+                <div className="post"> Professor </div>
                 <div className="post"> Office		:Room No. 412, POD – 1D </div>
                 <div className="post">  Email	 (<i><FaEnvelope/></i>)	: vkt@iiti.ac.in </div>
                 <div className="post"> Contact  (<i><FaPhone/></i>)		: + 91-7324-306-3251 ext: 5568 </div>
