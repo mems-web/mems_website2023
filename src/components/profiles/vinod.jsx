@@ -89,8 +89,11 @@ const profile11 = () => {
           <span className="pc1-head">POSITIONS HELD</span>
           <ul>
           <li>
-            Professor, MEMS, IIT Indore,  Feb. 17, 2022 – Till date
-            </li>
+            Professor, MEMS, IIT Indore, 2026 – Till date
+          </li>
+          <li>
+            Associate Professor, MEMS, IIT Indore, Feb. 17, 2022 – 2026
+          </li>
           <li>
           Assistant Professor, MEMS, IIT Indore, March 30, 2017 – Feb. 16, 2022 
             </li>
