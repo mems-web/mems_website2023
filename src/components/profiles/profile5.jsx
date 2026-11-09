@@ -33,7 +33,7 @@ const profile5 = () => {
           
 
             <ul>
-              <li> Associate Professor</li>
+              <li>Professor</li>
               <li>Office		: PoD 1D; 412 </li>
               <li>Email	 (<i><FaEnvelope/></i>)	:mdubey@iiti.ac.in </li>
               <li>Contact  (<i><FaPhone/></i>)		: 3258</li>
@@ -93,7 +93,11 @@ const profile5 = () => {
           
           <ul>
             <li>
-            Associate Professor, Indian Institute of Technology Indore, India (Feb 2022- )            </li>
+            Professor, Indian Institute of Technology Indore, India (July 29, 2026 – Till date)
+            </li>
+            <li>
+            Associate Professor, Indian Institute of Technology Indore, India (Feb 2022 – July 28, 2026)
+            </li>
             <li>Assistant Professor, Indian Institute of Technology Indore, India (May 2017- Feb 2022)</li>
             <li>
             DST- INSPIRE Faculty, Indian Institute of Technology (BHU) Varanasi (Jan 2015- April 2017)            </li>

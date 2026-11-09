@@ -32,7 +32,7 @@ const Profile14 = () => {
           
 
             <ul>
-              <li>Designation	: Assistant Professor</li>
+              <li>Designation	: Associate Professor</li>
               <li>Office		: Chromium, POD 1D-613  </li>
               <li>Email	 (<i><FaEnvelope/></i>)	:ramsajeevan@iiti.ac.in </li>
               <li>Contact  (<i><FaPhone/></i>)		:0731-660-3202, +91-8309350644</li>
@@ -81,7 +81,10 @@ const Profile14 = () => {
           <span className="pc1-head">PROFESSIONAL EXPERIENCE</span>
           <ul>
             <li>
-            Assistant Professor, Metallurgical Engineering and Materials Science, IIT Indore, 2019 – Present
+            Associate Professor, Metallurgical Engineering and Materials Science, IIT Indore, July 29, 2026 – Present
+            </li>
+            <li>
+            Assistant Professor, Metallurgical Engineering and Materials Science, IIT Indore, 2019 – July 28, 2026
             </li>
             <li>Assistant Professor, Metallurgical and Materials Engineering, NIT Rourkela, 2018 – 2019</li>
             <li>

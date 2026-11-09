@@ -32,7 +32,7 @@ const Profile15 = () => {
           
 
             <ul>
-              <li>Designation	: Assistant Professor</li>
+              <li>Designation	: Associate Professor</li>
               <li>Office		: 1D(POD-Chromium Building)-306</li>
               <li>Email	 (<i><FaEnvelope/></i>)	: bashada@iiti.ac.in </li>
               <li>Contact  (<i><FaPhone/></i>)		: +917316603516</li>
@@ -78,7 +78,10 @@ const Profile15 = () => {
           <span className="pc1-head">PROFESSIONAL EXPERIENCE</span>
           <ul>
             <li>
-            Assistant Professor, Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology INDORE, Indore, From Oct 2019– To (Continuing)
+            Associate Professor, Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology Indore, July 29, 2026 – Present
+            </li>
+            <li>
+            Assistant Professor, Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology INDORE, Indore, Oct 2019 – July 28, 2026
             </li>
             <li>Postdoc, National Institute for Materials Science, Tsukuba, Japan, From Sep 2014– To Sep 2019</li>
             

@@ -94,7 +94,10 @@ const profile7 = () => {
           <span className="pc1-head">POSITIONS HELD</span>
           <ul>
             <li>
-            Associate Professor, MEMS, IIT Indore,  Feb. 17, 2022 – Till date
+            Professor, MEMS, IIT Indore, July 29, 2026 – Till date
+            </li>
+            <li>
+            Associate Professor, MEMS, IIT Indore, Feb. 17, 2022 – July 28, 2026
             </li>
             <li> Assistant Professor, MME, MNIT Jaipur, July 6, 2012 – March 29, 2017</li>
             <li>

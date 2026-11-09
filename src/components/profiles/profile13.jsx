@@ -32,7 +32,7 @@ const Profile18 = () => {
           
 
             <ul>
-              <li>Designation	:  Associate Professor</li>
+              <li>Designation	:  Professor</li>
               <li>Office		: Room no. 416, POD-1D (Chromium Building) </li>
               <li>Email	 (<i><FaEnvelope/></i>)	: sunil@iiti.ac.in </li>
               <li>Contact  (<i><FaPhone/></i>)		: 07324-306-3281</li>
@@ -79,7 +79,10 @@ const Profile18 = () => {
           <ul>
           
             <li>
-            Associate Professor, Metallurgical Engineering and Materials Science, IIT Indore, 2022 – present 
+            Professor, Metallurgical Engineering and Materials Science, IIT Indore, July 29, 2026 – present 
+            </li>
+            <li>
+            Associate Professor, Metallurgical Engineering and Materials Science, IIT Indore, 2022 – July 28, 2026
             </li>
             <li>Assistant Professor, Metallurgical Engineering and Materials Science, IIT Indore, 2018 – 2022</li>
             <li>

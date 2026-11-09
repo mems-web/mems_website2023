@@ -146,7 +146,7 @@ const faculty = () => {
             <div className="hodtext">
               <div className="hodtext1">
                 <div className="name">Prof. Dudekula Althaf Basha</div>
-                <div className="post">Assistant Professor </div>
+                <div className="post">Associate Professor </div>
                 <div className="post">Office		: 1D(POD-Chromium Building)-306</div>
                 <div className="post">Email	 (<i><FaEnvelope/></i>)	: bashada@iiti.ac.in </div>
                 <div className="post">Contact  (<i><FaPhone/></i>)		: +917316603516</div>
@@ -184,7 +184,7 @@ const faculty = () => {
             <div className="hodtext">
               <div className="hodtext1">
                 <div className="name">Prof. Hemant Borkar</div>
-                <div className="post"> Assistant Professor </div>
+                <div className="post"> Associate Professor </div>
                 <div className="post"> Office		: POD 1D (Chromium room 612)</div>
                 <div className="post"> Email	 (<i><FaEnvelope/></i>)	: h.borkar@iiti.ac.in</div>
                 <div className="post"> Contact  (<i><FaPhone/></i>)		: +91-73243063295 </div>
@@ -333,7 +333,7 @@ const faculty = () => {
             <div className="hodtext">
               <div className="hodtext1">
                 <div className="name">Prof. Ram Sajeevan Maurya</div>
-                <div className="post">  Assistant Professor </div>
+                <div className="post"> Associate Professor </div>
                 <div className="post"> Office		: Chromium, POD 1D-613 </div>
                 <div className="post"> Email	 (<i><FaEnvelope/></i>)	:ramsajeevan@iiti.ac.in </div>
                 <div className="post"> Contact  (<i><FaPhone/></i>)		:0731-660-3202, +91-8309350644</div>

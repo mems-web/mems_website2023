@@ -32,7 +32,7 @@ const Profile12 = () => {
           
 
             <ul>
-              <li>Designation	: Assistant Professor</li>
+              <li>Designation	: Associate Professor</li>
               <li>Office		: POD 1D (Chromium room 612) </li>
               <li>Email	 (<i><FaEnvelope/></i>)	: h.borkar@iiti.ac.in </li>
               <li>Contact  (<i><FaPhone/></i>)		: +91-73243063295 
@@ -81,9 +81,12 @@ const Profile12 = () => {
         <div className="pc1">
           <span className="pc1-head">PROFESSIONAL EXPERIENCE</span>
           <ul>
-            <li>
-            Assistant Professor, Department of Metallurgical Engineering and Materials Science, IIT Indore,  2017 to   current
-            </li>
+          <li>
+            Associate Professor, Department of Metallurgical Engineering and Materials Science, IIT Indore, July 29, 2026 – Present
+          </li>
+          <li>
+            Assistant Professor, Department of Metallurgical Engineering and Materials Science, IIT Indore, 2017 – July 28, 2026
+          </li>
             <li>Senior Teaching Fellow, WMG, University of Warwick, UK, 2015-2017</li>
             <li>
             Postdoctoral Researcher, Materials and Manufacturing, Jonkoping University, Sweden, 2013-2015
